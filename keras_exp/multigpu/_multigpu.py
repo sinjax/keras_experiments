@@ -10,7 +10,7 @@
 from __future__ import print_function
 
 import sys
-from cStringIO import StringIO
+from io import StringIO
 
 from itertools import chain
 
